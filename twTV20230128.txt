@@ -27,6 +27,7 @@
 華視新聞資訊 HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 壹電視 HD,http://60.251.59.180:8501/.m3u8
 壹電視 HD,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+壹新聞 HD,http://www.yshmzmc.top/gtjm.php?id=live1242
 TVBS新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
