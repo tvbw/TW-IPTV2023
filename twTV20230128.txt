@@ -33,7 +33,7 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 東森新聞 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+東森 LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
@@ -49,7 +49,6 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新聞 HD,http://140.238.155.232:9000/jmsytb.m3u8?c=24
 中天新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新聞 2(循環直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新聞 HD(油管),https://www.youtube.com/watch?v=_QbRXRnHMVY
 三立新聞 LIVE,http://60.251.59.180:8506/ch18.m3u8
 三立新聞 LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
